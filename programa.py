@@ -1,4 +1,4 @@
-#!\bin\python3
+#!\bin\bin\python3
 num1 = input("Introduce el numero 1")
 num2 = input("Introduce el numero 2")
 
